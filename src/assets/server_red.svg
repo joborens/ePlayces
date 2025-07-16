@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30"
+   height="70"
+   viewBox="0 0 30 70"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showborder="false"
+     inkscape:zoom="6.675"
+     inkscape:cx="112.05993"
+     inkscape:cy="62.696629"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1072"
+     inkscape:window-y="177"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-60)">
+    <g
+       id="g24"
+       inkscape:export-filename="server_orange.svg"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960">
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect7"
+         width="30"
+         height="70"
+         x="30"
+         y="0"
+         inkscape:transform-center-x="-10.805227"
+         inkscape:transform-center-y="-16.737509"
+         rx="5"
+         ry="5" />
+      <rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect8"
+         width="25"
+         height="10"
+         x="32.5"
+         y="2.5"
+         rx="5"
+         ry="5" />
+      <rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect9"
+         width="25"
+         height="10"
+         x="32.5"
+         y="15.833333"
+         rx="5"
+         ry="5" />
+      <rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect10"
+         width="25"
+         height="10"
+         x="32.5"
+         y="29.166666"
+         rx="5"
+         ry="5" />
+      <rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect11"
+         width="25"
+         height="25"
+         x="32.5"
+         y="42.5"
+         rx="5"
+         ry="5" />
+      <circle
+         style="opacity:1;fill:#ffc200;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle11"
+         cx="55.664795"
+         cy="4.335206"
+         r="1.835206" />
+      <circle
+         style="opacity:1;fill:#ffc200;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle12"
+         cx="55.664795"
+         cy="17.668539"
+         r="1.835206" />
+      <circle
+         style="opacity:1;fill:#ffc200;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle13"
+         cx="55.664795"
+         cy="31.001873"
+         r="1.835206" />
+      <circle
+         style="opacity:1;fill:#ffc200;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle14"
+         cx="55.664795"
+         cy="44.335205"
+         r="1.835206" />
+    </g>
+    <g
+       id="g23"
+       inkscape:export-filename="server_red.png"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960">
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect14"
+         width="30"
+         height="70"
+         x="60"
+         y="0"
+         inkscape:transform-center-x="-10.805227"
+         inkscape:transform-center-y="-16.737509"
+         rx="5"
+         ry="5" />
+      <rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect15"
+         width="25"
+         height="10"
+         x="62.5"
+         y="2.5"
+         rx="5"
+         ry="5" />
+      <rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect16"
+         width="25"
+         height="10"
+         x="62.5"
+         y="15.833333"
+         rx="5"
+         ry="5" />
+      <rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect17"
+         width="25"
+         height="10"
+         x="62.5"
+         y="29.166666"
+         rx="5"
+         ry="5" />
+      <rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect18"
+         width="25"
+         height="25"
+         x="62.5"
+         y="42.5"
+         rx="5"
+         ry="5" />
+      <circle
+         style="opacity:1;fill:#ff0400;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle18"
+         cx="85.664795"
+         cy="4.335206"
+         r="1.835206" />
+      <circle
+         style="opacity:1;fill:#ff0400;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle19"
+         cx="85.664795"
+         cy="17.668539"
+         r="1.835206" />
+      <circle
+         style="opacity:1;fill:#ff0400;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle20"
+         cx="85.664795"
+         cy="31.001873"
+         r="1.835206" />
+      <circle
+         style="opacity:1;fill:#ff0400;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle21"
+         cx="85.664795"
+         cy="44.335205"
+         r="1.835206" />
+    </g>
+  </g>
+</svg>
