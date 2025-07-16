@@ -29,7 +29,7 @@ const buttons = ref([
 function handleClick(index) {
     if (buttons.value[index].count < buttons.value[index].max)
     {
-        buttons.value[index].count = Math.max(buttons.value[index].count++ , buttons.value[index].max)
+        buttons.value[index].count = Math.min(buttons.value[index].count + 1 , buttons.value[index].max)
     }
     updateCost(index)
 }
@@ -46,7 +46,7 @@ let intervalId = null
 onMounted(() => {
   intervalId = setInterval(() => {
     buttons.value.forEach(button => {
-      if (button.count > 0) {
+      if (button.count > 0 && button.decay != 0) {
         button.count = Math.max(button.count - button.decay, 0).toFixed(1)
       }
     })
